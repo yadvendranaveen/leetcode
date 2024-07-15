@@ -6,7 +6,7 @@ class Solution:
         def dfs(rem, start):
             if rem<0: return 
             if not rem: 
-                ans.append(list(comb))
+                ans.append(comb[:])
                 return
             for i in range(start, n):
                 comb.append(candidates[i])
