@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/yadvendranaveen/leetcode/tree/master/0039-combination-sum) |
 | [0200-number-of-islands](https://github.com/yadvendranaveen/leetcode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -36,4 +37,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/yadvendranaveen/leetcode/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/yadvendranaveen/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
