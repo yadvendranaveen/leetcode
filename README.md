@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/yadvendranaveen/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/yadvendranaveen/leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/yadvendranaveen/leetcode/tree/master/0078-subsets) |
 | [0139-word-break](https://github.com/yadvendranaveen/leetcode/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/yadvendranaveen/leetcode/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/yadvendranaveen/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/yadvendranaveen/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/yadvendranaveen/leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/yadvendranaveen/leetcode/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,4 +71,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/yadvendranaveen/leetcode/tree/master/0139-word-break) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/yadvendranaveen/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
