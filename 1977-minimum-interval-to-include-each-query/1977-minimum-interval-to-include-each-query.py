@@ -10,10 +10,10 @@ class Solution:
         for query, i in queries:
             while curr_idx<n and intervals[curr_idx][0] <= query:
                 diff = intervals[curr_idx][1] - intervals[curr_idx][0] + 1
-                heappush(q, (diff, intervals[curr_idx]))
+                heappush(q, (diff, intervals[curr_idx][1]))
                 curr_idx += 1
 
-            while q and q[0][1][1]<query:
+            while q and q[0][1]<query:
                 heappop(q)
 
             ans[i] = q[0][0] if q else -1
